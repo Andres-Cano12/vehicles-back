@@ -1,0 +1,56 @@
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.deps.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.runtimeconfig.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.runtimeconfig.dev.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csprojResolveAssemblyReference.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csproj.CoreCompileInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.AssemblyInfoInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.AssemblyInfo.cs
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\AccessData\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.deps.json
+D:\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.runtimeconfig.json
+D:\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.runtimeconfig.dev.json
+D:\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.dll
+D:\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.pdb
+D:\WebApi\AccessData\bin\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\AccessData\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csprojAssemblyReference.cache
+D:\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.AssemblyInfoInputs.cache
+D:\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.AssemblyInfo.cs
+D:\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csproj.CopyComplete
+D:\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.dll
+D:\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.pdb
+D:\WebApi\New folder\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.deps.json
+D:\WebApi\New folder\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.runtimeconfig.json
+D:\WebApi\New folder\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.runtimeconfig.dev.json
+D:\WebApi\New folder\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.dll
+D:\WebApi\New folder\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.pdb
+D:\WebApi\New folder\WebApi\AccessData\bin\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\New folder\WebApi\AccessData\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\New folder\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csprojAssemblyReference.cache
+D:\WebApi\New folder\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csproj.CoreCompileInputs.cache
+D:\WebApi\New folder\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.AssemblyInfoInputs.cache
+D:\WebApi\New folder\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.AssemblyInfo.cs
+D:\WebApi\New folder\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csproj.CopyComplete
+D:\WebApi\New folder\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.dll
+D:\WebApi\New folder\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.pdb
+D:\WebApi\New folder\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.genruntimeconfig.cache
+C:\WebApi\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.AssemblyInfoInputs.cache
+C:\WebApi\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.AssemblyInfo.cs
+C:\WebApi\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.deps.json
+C:\WebApi\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.runtimeconfig.json
+C:\WebApi\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.runtimeconfig.dev.json
+C:\WebApi\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.dll
+C:\WebApi\WebApi\AccessData\bin\Debug\netcoreapp2.2\AccessData.pdb
+C:\WebApi\WebApi\AccessData\bin\Debug\netcoreapp2.2\Common.dll
+C:\WebApi\WebApi\AccessData\bin\Debug\netcoreapp2.2\Common.pdb
+C:\WebApi\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csprojAssemblyReference.cache
+C:\WebApi\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csproj.CopyComplete
+C:\WebApi\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.dll
+C:\WebApi\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.pdb
+C:\WebApi\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.genruntimeconfig.cache
+C:\WebApi\WebApi\AccessData\obj\Debug\netcoreapp2.2\AccessData.csproj.CoreCompileInputs.cache

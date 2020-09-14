@@ -1,0 +1,63 @@
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.dev.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.GlobalResource.resources
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.GenerateResource.Cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csprojResolveAssemblyReference.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Department.DepartmentTypeResource.resources
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Distributors.DistributorResource.resources
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Distributors.DocumentTypeResource.resources
+D:\WebApi\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+D:\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.json
+D:\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.dev.json
+D:\WebApi\Common\bin\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\Common\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Department.DepartmentTypeResource.resources
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Distributors.DistributorResource.resources
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Distributors.DocumentTypeResource.resources
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.GlobalResource.resources
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.GenerateResource.cache
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\Common\obj\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\New folder\WebApi\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+D:\WebApi\New folder\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.json
+D:\WebApi\New folder\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.dev.json
+D:\WebApi\New folder\WebApi\Common\bin\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\New folder\WebApi\Common\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Department.DepartmentTypeResource.resources
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Distributors.DistributorResource.resources
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Distributors.DocumentTypeResource.resources
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.GlobalResource.resources
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.GenerateResource.cache
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\New folder\WebApi\Common\obj\Debug\netcoreapp2.2\Common.genruntimeconfig.cache
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.GlobalResource.resources
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.Resources.Users.UserResource.resources
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.GenerateResource.cache
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfoInputs.cache
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.AssemblyInfo.cs
+C:\WebApi\WebApi\Common\bin\Debug\netcoreapp2.2\Common.deps.json
+C:\WebApi\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.json
+C:\WebApi\WebApi\Common\bin\Debug\netcoreapp2.2\Common.runtimeconfig.dev.json
+C:\WebApi\WebApi\Common\bin\Debug\netcoreapp2.2\Common.dll
+C:\WebApi\WebApi\Common\bin\Debug\netcoreapp2.2\Common.pdb
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.dll
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.pdb
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.genruntimeconfig.cache
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csprojAssemblyReference.cache
+C:\WebApi\WebApi\Common\obj\Debug\netcoreapp2.2\Common.csproj.CoreCompileInputs.cache

@@ -1,0 +1,64 @@
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.deps.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.runtimeconfig.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.runtimeconfig.dev.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\AccessData.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\AccessData.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csprojResolveAssemblyReference.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csproj.CoreCompileInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.AssemblyInfoInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.AssemblyInfo.cs
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.deps.json
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.runtimeconfig.json
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.runtimeconfig.dev.json
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\AccessData.dll
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\AccessData.pdb
+D:\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csprojAssemblyReference.cache
+D:\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.AssemblyInfoInputs.cache
+D:\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.AssemblyInfo.cs
+D:\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csproj.CopyComplete
+D:\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.dll
+D:\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.pdb
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.deps.json
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.runtimeconfig.json
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.runtimeconfig.dev.json
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\AccessData.dll
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\AccessData.pdb
+D:\WebApi\New folder\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\New folder\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csprojAssemblyReference.cache
+D:\WebApi\New folder\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csproj.CoreCompileInputs.cache
+D:\WebApi\New folder\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.AssemblyInfoInputs.cache
+D:\WebApi\New folder\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.AssemblyInfo.cs
+D:\WebApi\New folder\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csproj.CopyComplete
+D:\WebApi\New folder\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.dll
+D:\WebApi\New folder\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.pdb
+D:\WebApi\New folder\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.genruntimeconfig.cache
+C:\WebApi\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.AssemblyInfoInputs.cache
+C:\WebApi\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.AssemblyInfo.cs
+C:\WebApi\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csprojAssemblyReference.cache
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.deps.json
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.runtimeconfig.json
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.runtimeconfig.dev.json
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\AccessData.dll
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\Common.dll
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\AccessData.pdb
+C:\WebApi\WebApi\BusinnesLogic\bin\Debug\netcoreapp2.2\Common.pdb
+C:\WebApi\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csproj.CopyComplete
+C:\WebApi\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.dll
+C:\WebApi\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.pdb
+C:\WebApi\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.genruntimeconfig.cache
+C:\WebApi\WebApi\BusinnesLogic\obj\Debug\netcoreapp2.2\BusinnesLogic.csproj.CoreCompileInputs.cache

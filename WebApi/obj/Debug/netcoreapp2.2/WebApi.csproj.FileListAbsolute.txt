@@ -1,0 +1,101 @@
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\AccessData.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\AccessData.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\Config.dll
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\Config.pdb
+C:\Users\andresleonardo\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\AccessData.dll
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\Config.dll
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\AccessData.pdb
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\Config.pdb
+D:\WebApi\WebApi\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CopyComplete
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+D:\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\AccessData.dll
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\Common.dll
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\Config.dll
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\AccessData.pdb
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\Config.pdb
+D:\WebApi\New folder\WebApi\WebApi\bin\Debug\netcoreapp2.2\Common.pdb
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CopyComplete
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+D:\WebApi\New folder\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.genruntimeconfig.cache
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\AccessData.dll
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\BusinnesLogic.dll
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\Common.dll
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\Config.dll
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\AccessData.pdb
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\BusinnesLogic.pdb
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\Config.pdb
+C:\WebApi\WebApi\WebApi\bin\Debug\netcoreapp2.2\Common.pdb
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CopyComplete
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.genruntimeconfig.cache
+C:\WebApi\WebApi\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
